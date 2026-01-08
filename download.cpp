@@ -14,7 +14,7 @@ cout << "                 downloader file apapun   " << endl;
 cout << endl;
 cout << "\033[97mCoded By : \033[92Mr.Rm19 \033[97m" << endl;
 cout << "Team     : \033[92mRamdan19id@gmail.com\033[97m" << endl;
-cout << "Telegram : \033[92github.com/Rmdn19id" << endl;
+cout << "Telegram : \033[92github.com/Mister-RdanM19" << endl;
 cout << endl;
 cout << "=================================" << endl;
 cout << "[1]with curl" << endl;
